@@ -36,7 +36,7 @@ section{
 }
 
 .card-header{
-    background-image: url(images/bg-pattern-card.svg);
+    background-image: url(bg-pattern-card.svg);
     background-size: cover;
     height: 150px;
 }
